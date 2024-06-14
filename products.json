@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Harry Potter",
+    "price": 2000,
+    "image": "images/image1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Lord of the Rings",
+    "price": 4000,
+    "image": "images/image2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "The Adventures of Tintin",
+    "price": 16000,
+    "image": "images/image3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Game of Thrones",
+    "price": 8500,
+    "image": "images/image4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "A Study in Scarlet",
+    "price": 799,
+    "image": "images/image5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Pride and Prejudice",
+    "price": 836,
+    "image": "images/image6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "The Plague",
+    "price": 980,
+    "image": "images/image7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "The Shining",
+    "price": 760,
+    "image": "images/image8.jpg"
+  }
+]
